@@ -1,0 +1,3 @@
+commands:
+  - uname -a
+  - uptime
